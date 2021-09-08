@@ -35,7 +35,7 @@
                     <div class="divider-custom-line"></div>
                 </div>
                 <!-- Masthead Subheading-->
-                <p class="masthead-subheading font-weight-light mb-0">Keiner Tapia<br>Jesús Charris<br>Jesus Guerra<br>Jcoob Charris<br>Andrés Escorcia<br>founders members</p>
+                <p class="masthead-subheading font-weight-light mb-0">Keiner Tapia<br>Jesús Charris<br>Jesus Guerra<br>Jcoob Charris<br>Andres Escorcia<br>founders members</p>
             </div>
         </header>
 
@@ -52,10 +52,10 @@
                 </div>
                 <!-- About Section Content-->
                 <div class="row">
-                    <div class="col-lg-4 ms-auto"><p class="lead">MISSION<br>
-                        Design and develop computer systems in order to offer a solution to the needs and requirements of the client.</p></div>
-                    <div class="col-lg-4 me-auto"><p class="lead">VISION<br>
-                        We will be one of the largest providers of computer services such as web and desktop developments at a national and international level, offering an efficient, accessible and high-level product.</p></div>
+                    <div class="col-lg-4 ms-auto"><p class="lead">Mision<br>
+                        Diseñar y desarrollar sistemas informáticos con el fin de ofrecer una solución a las necesidades y requerimientos del cliente.</p></div>
+                    <div class="col-lg-4 me-auto"><p class="lead">Vision<br>
+                        Seremos uno de los mayores proveedores de servicios informáticos como desarrollos web y de escritorio a nivel nacional e internacional, ofreciendo un producto eficiente, accesible y de alto nivel.</p></div>
                 </div>
 
 
