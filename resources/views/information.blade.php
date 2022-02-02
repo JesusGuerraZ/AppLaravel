@@ -35,7 +35,7 @@
                     <div class="divider-custom-line"></div>
                 </div>
                 <!-- Masthead Subheading-->
-                <p class="masthead-subheading font-weight-light mb-0">Keiner Tapia<br>Jesús Charris<br>Jesus Guerra<br>Jcoob Charris<br>Andres Escorcia<br>founders members</p>
+                <p class="masthead-subheading font-weight-light mb-0">Keiner Tapia<br>Jesus Guerra<br>Jcoob Charris<br></p>
             </div>
         </header>
 
